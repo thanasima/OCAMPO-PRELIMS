@@ -1,0 +1,30 @@
+/* FOOTER */
+
+footer {
+    border-bottom-style: solid;
+    border-color: #000000;
+    border-top-style: solid;
+    background-color: #ffa5a5;
+    border-width: 1px;
+}
+
+#footer p, ul, li {
+    margin: 0;
+    text-align: center;
+    padding: 7px;
+    font-weight: bold;
+}
+
+.icon {
+    float: center;
+}
+.icon img {
+    width: 25px;
+    height: 25px;
+}
+
+.icon ul {
+    margin: 0;
+}
+
+/* </FOOTER> */

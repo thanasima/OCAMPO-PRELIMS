@@ -1,0 +1,54 @@
+/* HEADER  */
+/* Navigation start */
+
+header {
+    background-color: #ffa5a5;
+    height: 46px;
+}
+
+header .wrapper {
+    padding-right: 25px;
+    padding-left: 659px;
+}
+
+#logo {
+    position: absolute;
+    top: -18px;
+}
+
+#navigation {
+    flex: 1;
+}
+
+#nav {
+    float: right;
+    color: #000000;
+    display: inline;
+    font-weight: bold;
+    margin: 0px;
+}
+
+#nav ul, a {
+    color: #000000;
+    padding-left: 15px;
+    font-size: 15px;
+}
+
+.clearfix {
+    clear: both;
+}
+/* Navigation End */
+
+/* Attributes Start */
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+/* Attributes End */
+/* </HEADER> */
+
